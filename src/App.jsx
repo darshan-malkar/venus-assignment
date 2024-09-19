@@ -1,12 +1,12 @@
 import React from 'react';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import Home from './pages/home';
-import About from './pages/about';
-import Trip from './pages/trip';
-import TripDetail from './pages/tripDetail';
-import Placesrou from './pages/placesrou';
+import Home from './pages/Home';
+import About from './pages/About';
+import Trip from './pages/Trip';
+import TripDetail from './pages/TripDetail';
+import Placesrou from './pages/Placesrou';
 import Layout from './pages/Layout';
-import NoPage from './pages/noPage';
+import NoPage from './pages/NoPage';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 const App = () => {

@@ -4,8 +4,6 @@ import {
   FaFacebook,
   FaInstagram,
   FaLinkedin,
-  FaLocationArrow,
-  FaMobileAlt,
 } from "react-icons/fa";
 import NatureVid from "../../assets/video/footer.mp4";
 import { Link } from "react-router-dom";
